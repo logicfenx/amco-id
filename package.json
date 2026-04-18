@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/amco-id",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a amco-id",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/amco-id.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://btcstorm.cloud/es/amco-id/"
+    },
+    "homepage": "https://btcstorm.cloud/es/amco-id/"
+}
